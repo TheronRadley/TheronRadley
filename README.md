@@ -24,7 +24,9 @@
 - 📸 Instagram ➞ https://instagram.com/TheronRadley
 - 💼 LinkedIn ➞ https://www.linkedin.com/in/theron-radley-231305391/  
 - 🐦 X (Twitter) ➞ https://x.com/TheronRadley
-- 📩 E-Mail Address ➞ theron.radley.inquiries@gmail.com (No Spamming)
+- 📩 E-Mail Address ➞ mailto:theron.radley.inquiries@gmail.com (No Spamming)
+- 🌿 Linktree ➞ https://linktr.ee/TheronRadley
+- 📓 Carrd ➞ https://theronradley.carrd.co/
 
 ## 🧬 Philosophy
 > Create something that makes people feel something.

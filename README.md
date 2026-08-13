@@ -2,14 +2,14 @@
 <h3 align="center">I build products, not just projects.</h3>
 
 <p align="center">
-I take ideas from a blank repo to something people actually use — fast web apps,
-sharp UI, and AI-driven tools that solve a real problem instead of showing off a stack.
+I take ideas from a blank repo to something people actually use. Fast web apps,
+sharp UI, and AI-driven tools that solve a real problem instead of just showing off a stack.
 </p>
 
 <br>
 
 ### 🚀 Currently
-- Building **A Chess Engine** - a one-line pitch that **analyzes chess or chess variant positions, and generates a move or list of moves that it regards as strongest**.
+- Building a **chess engine** that analyzes positions (including variants) and figures out the strongest move to play
 - Exploring AI-powered automation and developer tooling
 - Always shipping something small on the side
 
@@ -24,6 +24,7 @@ sharp UI, and AI-driven tools that solve a real problem instead of showing off a
 </p>
 
 <details>
+<summary>Also comfortable with</summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -38,7 +39,7 @@ sharp UI, and AI-driven tools that solve a real problem instead of showing off a
 ### 📌 Pinned work
 | Project | What it does | Stack |
 |---|---|---|
-| **[Tiny Git](https://github.com/TheronRadley/tiny-git)** | A small educational Git-inspired version-control system built from scratch in Python. | Python |
+| **[Tiny Git](https://github.com/TheronRadley/tiny-git)** | A small educational version control system inspired by Git, built from scratch in Python | Python |
 
 ### 📊 GitHub Stats
 <p align="left">

@@ -23,9 +23,8 @@ sharp UI, and AI-driven tools that solve a real problem instead of just showing 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<details>
-<summary>Also Comfortable With</summary>
-<br>
+### Also Comfortable With
+
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -34,7 +33,7 @@ sharp UI, and AI-driven tools that solve a real problem instead of just showing 
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-</details>
+
 
 ### 📌 Pinned work
 | Project | What it does | Stack |

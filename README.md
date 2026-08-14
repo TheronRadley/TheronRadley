@@ -24,7 +24,7 @@ sharp UI, and AI-driven tools that solve a real problem instead of just showing 
 </p>
 
 <details>
-  
+  Also Comfortable With
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />

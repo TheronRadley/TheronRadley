@@ -8,12 +8,12 @@ sharp UI, and AI-driven tools that solve a real problem instead of just showing 
 
 <br>
 
-### 🚀 Currently
+### 1. Currently
 - Building a **chess engine** that analyzes positions (including variants) and figures out the strongest move to play
 - Exploring AI-powered automation and developer tooling
 - Always shipping something small on the side
 
-### 🔨 What I actually use day to day
+### 2. What I actually use day to day
 <p align="left">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -23,7 +23,7 @@ sharp UI, and AI-driven tools that solve a real problem instead of just showing 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-### Also Comfortable With
+### 3. Also comfortable with
 
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -35,18 +35,18 @@ sharp UI, and AI-driven tools that solve a real problem instead of just showing 
 </p>
 
 
-### 📌 Pinned work
+### 4. Pinned work
 | Project | What it does | Stack |
 |---|---|---|
 | **[Tiny Git](https://github.com/TheronRadley/tiny-git)** | A small educational version control system inspired by Git, built from scratch in Python | Python |
 
-### 📊 GitHub Stats
+### 5. GitHub Stats
 <p align="left">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=TheronRadley&theme=dark&hide_border=true&count_private=false" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheronRadley&theme=dark&hide_border=true&layout=compact" />
 </p>
 
-### 🌐 Find me elsewhere
+### 6. Find me elsewhere
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheronRadley)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theron-radley-231305391/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theronradley)

@@ -9,9 +9,9 @@ sharp UI, and AI-driven tools that solve a real problem instead of just showing 
 <br>
 
 ### 1. Currently
-- Building a **chess engine** that analyzes positions (including variants) and figures out the strongest move to play
 - Exploring AI-powered automation and developer tooling
 - Always shipping something small on the side
+- Trying to achieve my infinite goals in life, pairing it with helping as much people as possible
 
 ### 2. What I actually use day to day
 <p align="left">

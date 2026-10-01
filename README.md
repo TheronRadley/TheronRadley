@@ -34,19 +34,13 @@ sharp UI, and AI-driven tools that solve a real problem instead of just showing 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-
-### 4. Pinned work
-| Project | What it does | Stack |
-|---|---|---|
-| **[Tiny Git](https://github.com/TheronRadley/tiny-git)** | A small educational version control system inspired by Git, built from scratch in Python | Python |
-
-### 5. GitHub Stats
+### 4. GitHub Stats
 <p align="left">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=TheronRadley&theme=dark&hide_border=true&count_private=false" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheronRadley&theme=dark&hide_border=true&layout=compact" />
 </p>
 
-### 6. Find me elsewhere
+### 5. Find me elsewhere
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheronRadley)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theron-radley-231305391/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theronradley)

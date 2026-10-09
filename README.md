@@ -2,8 +2,7 @@
 <h3 align="center">I build products, not just projects.</h3>
 
 <p align="center">
-I take ideas from a blank repo to something people actually use. Fast web apps,
-sharp UI, and AI-driven tools that solve a real problem instead of just showing off a stack.
+I take ideas from a blank repo to products people actually use. AI does most of the heavy lifting, from getting projects off the ground to managing the build. I bring the vision, taste, and hands-on edits that make each project feel right. Fast web apps, sharp UI, and AI-powered tools built to solve real problems, not just flex a tech stack.
 </p>
 
 <br>

@@ -1,47 +1,118 @@
-<h1 align="center">Hey, I'm Theron 👋</h1>
-<h3 align="center">I build products, not just projects.</h3>
+<div align="center">
 
-<p align="center">
-I take ideas from a blank repo to products people actually use. AI does most of the heavy lifting, from getting projects off the ground to managing the build. I bring the vision, taste, and hands-on edits that make each project feel right. Fast web apps, sharp UI, and AI-powered tools built to solve real problems, not just flex a tech stack.
-</p>
+# Theron Radley
 
-<br>
+**Software engineer · Product builder**
 
-### 1. Currently
-- Exploring AI-powered automation and developer tooling
-- Always shipping something small on the side
-- Trying to achieve my infinite goals in life, pairing it with helping as much people as possible
+Building developer tools, low-level systems, and software designed to be useful.
 
-### 2. What I actually use day to day
-<p align="left">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+[**Website**](https://theronradley.vercel.app) &nbsp;·&nbsp; [**Projects**](https://github.com/TheronRadley?tab=repositories) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/theron-radley-231305391/) &nbsp;·&nbsp; [**Email**](mailto:theron.radley.inquiries@gmail.com)
 
-### 3. Also comfortable with
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+---
 
-### 4. GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=TheronRadley&theme=dark&hide_border=true&count_private=false" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheronRadley&theme=dark&hide_border=true&layout=compact" />
-</p>
+### About
 
-### 5. Find me elsewhere
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheronRadley)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theron-radley-231305391/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theronradley)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TheronRadley)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theron.radley.inquiries@gmail.com)
+I work across systems programming, developer tooling, and full-stack applications. I like understanding software from the inside out, then using that knowledge to make tools that are efficient, practical, and straightforward to use.
+
+My projects range from a programming language and an operating system to desktop utilities, databases, and performance tools. I'm also building with [Undrocs](https://github.com/Undrocs).
+
+### Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Gable](https://github.com/Undrocs/gable)**  
+An experimental, statically typed programming language with a native compilation pipeline and an emphasis on approachable syntax.
+
+<sub>C++ · Compilers · Pre-1.0</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[SYPAS](https://github.com/TheronRadley/sypas)**  
+An operating system built from scratch, with a custom UEFI bootloader, boot protocol, and x86-64 kernel. Early development.
+
+<sub>C · Assembly · OS development</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Riftmap](https://github.com/TheronRadley/riftmap)**  
+A local-first codebase explorer for analyzing repository structure, dependencies, complexity, and maintenance hotspots.
+
+<sub>Zig · TypeScript · React · Electron</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[SQLite Clone](https://github.com/TheronRadley/sqlite-clone)**  
+A from-scratch embedded database engine with SQL parsing, B-Tree storage, indexing, and transaction support.
+
+<sub>C++20 · Databases · Storage engines</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Smart File Organizer](https://github.com/TheronRadley/smart-file-organizer)**  
+A local-first file organization tool with dry-run previews, conflict handling, and undo support.
+
+<sub>Python · Filesystems · Automation</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Wiremark](https://github.com/TheronRadley/wiremark)**  
+An HTTP benchmarking CLI for measuring latency, throughput, and failure rates, with endpoint comparisons and reports.
+
+<sub>Go · HTTP · Performance</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Ro-Physics](https://github.com/TheronRadley/ro-physics)**  
+A 2D rigid-body physics engine featuring collision detection, constraints, continuous collision detection, and spatial queries.
+
+<sub>Rust · Physics simulation · WGPU</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Automatic Report Generator](https://github.com/TheronRadley/automatic-report-generator)**  
+A configurable reporting CLI that turns structured data into PDF, HTML, and Excel reports.
+
+<sub>Python · Data processing · Reporting</sub>
+
+</td>
+</tr>
+</table>
+
+### Tools & technologies
+
+**Languages** &nbsp; Python · TypeScript · JavaScript · Go · Rust · C · C++ · Zig · SQL  
+**Applications** &nbsp; React · Next.js · Node.js · Electron · Tailwind CSS  
+**Workflow** &nbsp; Git · Docker · CMake · GitHub Actions · Figma
+
+### What matters in my work
+
+- **Useful before impressive.** Clear workflows, sensible defaults, and features that solve a real problem.
+- **Understand the internals.** Learn by implementing the underlying systems, not only by using existing abstractions.
+- **Build with care.** Testing, performance, security, and maintainability belong in the development process.
+
+---
+
+<div align="center">
+
+**Interested in collaborating or discussing a project?**
+
+[Get in touch](mailto:theron.radley.inquiries@gmail.com) &nbsp;·&nbsp; [Visit my website](https://theronradley.vercel.app)
+
+</div>
